@@ -1,0 +1,6 @@
+blockmessage: "&cSorry! this command is restricted."
+
+commands:
+  examplecommand:
+    server: "example server"
+    bypass: "example.permission"
